@@ -17,9 +17,11 @@
 	<p>
     <img src="hinhanh.jpg" alt="Hình minh họa " width="200" height="200"border="5">
 	<p>--
-	 <button onclick="alert('đùng đùng Huỳnh Phương Chúc Mọi Người Năm Mới Vui Vẻ!')">
-        Bấm Dô Có Bất Ngờ
-    </button>
+	 <button 
+    style="background-color: red; color: white; border-radius: 8px; padding: 10px 20px;"
+    onclick="alert('đùng đùng Huỳnh Phương Chúc Mọi Người Năm Mới Vui Vẻ!')">
+    Bấm Dô Có Bất Ngờ
+</button>
 
 </body>
 </html>
