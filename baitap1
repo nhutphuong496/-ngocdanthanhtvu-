@@ -1,0 +1,24 @@
+
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <title>bai tap ve nha</title>
+	  <title>Hiệu ứng click</title>
+</head>
+<body>
+    <h1>Chào mừng đến với trang web của Huỳnh Phương</h1>
+    <b> *Giới thiệu sương sương
+	<p> -Sinh: 04/09/2006
+	<p>-Quê: Trà Vinh(cũ)
+	<p> -Đây là hình của Phương.<p>
+	<p>
+    <img src="hinhanh.jpg" alt="Hình minh họa " width="200" height="200"border="5">
+	<p>--
+	 <button onclick="alert('đùng đùng Huỳnh Phương Chúc Mọi Người Năm Mới Vui Vẻ!')">
+        Bấm Dô Có Bất Ngờ
+    </button>
+
+</body>
+</html>
+
